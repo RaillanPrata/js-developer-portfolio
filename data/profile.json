@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Raillan M Prata",
+  "photo": "file:///C:/Users/Raillan%20Prata/Documents/js-developer-portfolio-projeto-base/assets/img/my-photo.jpg",
+  "job": "Júnior Developer",
+  "location": "Espírito Santo - Brasil",
+  "phone": "(27) 99608-8291",
+  "email": "raillanprata@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -42,9 +42,8 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
+  
   ],
   "portfolio": [
     {
