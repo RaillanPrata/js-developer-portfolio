@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/RaillanPrata/js-developer-portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/RaillanPrata/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/RaillanPrata/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/RaillanPrata/js-developer-portfolio/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
         "name": "VsCode",
-        "logo": "https://raw.githubusercontent.com/RaillanPrata/js-developer-portfolio/main/data/imgs/vscode.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
@@ -55,19 +55,14 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Designer / PhotoCollor",
+      "period": "2020 - 2024",
+      "description": "Meu primeiro emprego, me ensinou muitas coisas que vou levar pra vida toda."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Técnico de Informática / Help Tecnologia",
+      "period": "2024 - Atualmente",
+      "description": "Até o momento tem sido uma experiência maravilhosa poder trabalhar com pessoas incríveis"
     }
   ]
 }
